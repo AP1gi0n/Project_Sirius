@@ -11,3 +11,5 @@ Current Status:
 	
 	Project Sirius is currently in early development. Planned features include dual Bluetooth and USB connection options, a seamless UI design for the touch screen, a 3D-printed desk mount at an 45 degree 
 angle for optimal viewing, and pre-built modules allowing users to easily control programs like Spotify and Elgato WaveLink directly from the device.
+
+NOTE!: As of current development, only the schematic file for Project Sirius is being worked on.
